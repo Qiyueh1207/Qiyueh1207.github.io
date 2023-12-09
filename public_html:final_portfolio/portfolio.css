@@ -1,0 +1,139 @@
+.navbar{
+    padding:30px 50px 40px;
+    background-color: white;
+}
+.navbar-brand{
+    font-family: 'Long Cang', cursive;
+    font-size:2rem;
+}
+
+#hello{
+    padding: 30px;
+    background-color: white;
+}
+.text1{
+    font-family: 'Long Cang', cursive;
+    font-weight: 500;
+    font-size: 48px;
+    text-align: center;
+  }
+
+.text2{
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 28px;
+  }
+
+.text３{
+    font-family: 'Shizuru';
+    font-weight: 400;
+    text-align: center;
+  }
+
+.text4{
+    font-family: 'Milonga', serif;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.Card{
+    padding:15px;
+}
+.card{
+    padding:25px;
+}
+
+
+#work {
+    font-family: 'Milonga', serif;
+    font-size: 25px;
+    
+    padding: 100px;
+    text-align: center;
+}
+
+.card-title{
+    font-size:20px;
+}
+
+.icon1:hover{
+    color:rgb(224, 184, 191);
+}
+.icon2:hover{
+    color:rgb(224, 184, 191);
+}
+.icon3:hover{
+    color:rgb(224, 184, 191);
+}
+.icon4:hover{
+    color:rgb(224, 184, 191);
+}
+
+.icon1{
+    color:cadetblue;
+}
+
+.icon2{
+    color:burlywood;
+}
+
+.icon3{
+    color:darksalmon;
+}
+
+.icon4{
+    color:slategrey;
+}
+
+#testimonials{
+    background-color: aqua;
+}
+.carousel-text{
+    font-family: 'Milonga', serif;
+    font-size: 20px;
+    text-align: center;
+    padding:20px;
+    padding-bottom: 130px;
+}
+
+.carousel-control-prev-icon{
+    background-color: coral;
+    border-radius: 50%;
+    background-size: 15px;
+    padding:13px;
+    margin-top: -7.9rem;
+    margin-left: -8rem;
+    margin-right: -3rem;
+}
+
+.carousel-control-next-icon {
+  background-color: coral;
+  border-radius: 50%;
+  background-size: 15px;
+  padding:13px;
+  margin-top: -7.9rem;
+  margin-left: -3rem;
+  margin-right: -8rem;
+}
+
+#footer{
+    font-family: 'Milonga', serif;
+    font-size: 13px;
+    color:rgb(100, 97, 97);
+    text-align:center;
+    padding:10px 0px 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color:rgba(247, 66, 163, 0.716);
+    text-decoration: none;
+
+}
